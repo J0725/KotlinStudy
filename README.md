@@ -19,17 +19,17 @@
 
 
 📚 진도
-- [ ] 1차시:  [Ch1] Kotlin: What and Why
-- [ ] 2차시:  [Ch2] Kotlin basics
-- [ ] 3차시:  [Ch3] Defining and Calling Fuctions(함수 정의와 호출)
-- [ ] 4차시:  [Ch4] Classes, Objects, and Interfaces
-- [ ] 5차시:  [Ch5] Programming with lambdas(람다를 이용한 프로그래밍)
-- [ ] 6차시:  [Ch6] The Kotlin Type System
-- [ ] 7차시:  [Ch7] Operator Overloading and Other Conventions(연산자 오버로딩과 기타 관례)
-- [ ] 8차시:  [Ch8] Higher-Order Functions: Lambdas as Parameters and Return Values(고차 함수: 파라미터와 반환 값으로 람다 사용)
-- [ ] 9차시:  [Ch9] Generics
-- [ ] 10차시: [Ch10] Annotations and Reflection
-- [ ] 11차시: [Ch11] DSL Construction(DSL 만들기)
+- [ ] [Ch1] Kotlin: What and Why
+- [ ] [Ch2] Kotlin basics
+- [ ] [Ch3] Defining and Calling Fuctions(함수 정의와 호출)
+- [ ] [Ch4] Classes, Objects, and Interfaces
+- [ ] [Ch5] Programming with lambdas(람다를 이용한 프로그래밍)
+- [ ] [Ch6] The Kotlin Type System
+- [ ] [Ch7] Operator Overloading and Other Conventions(연산자 오버로딩과 기타 관례)
+- [ ] [Ch8] Higher-Order Functions: Lambdas as Parameters and Return Values(고차 함수: 파라미터와 반환 값으로 람다 사용)
+- [ ] [Ch9] Generics
+- [ ] [Ch10] Annotations and Reflection
+- [ ] [Ch11] DSL Construction(DSL 만들기)
 
 ---
 
