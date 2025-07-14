@@ -15,9 +15,12 @@ Kotlin 언어에 대한 기본적인 이해 및 활용, 안드로이드 앱 개�
 - 각 스터디 차수에 해당되는 개념 각자 스터디 전까지 각자 블로그(ex.Tistory, velog 등)에 정리해서 깃허브에 올리기
 - 책에 있는 실습 직접 해보고 모르는 건 스터디에서 질문하기
 
-## 📚 진도  
-- [07.16 ] [Ch1] Kotlin: What and Why
+## 📚 진도
+1차시(7/16)
+- [ ] [Ch1] Kotlin: What and Why
+2차시(7/18)
 - [ ] [Ch2] Kotlin basics
+3차시(7/21)
 - [ ] [Ch3] Defining and Calling Fuctions(함수 정의와 호출)
 - [ ] [Ch4] Classes, Objects, and Interfaces
 - [ ] [Ch5] Programming with lambdas(람다를 이용한 프로그래밍)
