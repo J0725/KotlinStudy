@@ -1,4 +1,3 @@
-# KotlinStudy
 <div align="center">
   
 # 📚 Kotlin Study
