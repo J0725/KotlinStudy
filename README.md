@@ -19,15 +19,15 @@ Kotlin 언어에 대한 기본적인 이해 및 활용, 안드로이드 앱 개�
 ## 📚 진도  
 - [ ] 07.16: Ch1. Kotlin: What and Why
 - [ ] 07.18: Ch2. Kotlin basics
-- [ ] 07.21: Ch3. Defining and Calling Fuctions
+- [ ] 07.21: Ch3. Defining and Calling Fuctions(함수 정의와 호출)
 - [ ] 07.25: Ch4. Classes, Objects, and Interfaces
-- [ ] 07.28: Ch5. Programming with lambdas
+- [ ] 07.28: Ch5. Programming with lambdas(람다를 이용한 프로그래밍)
 - [ ] 08.01: Ch6. The Kotlin Type System
-- [ ] 08.04: Ch7. Operator Overloading and Other Conventions
-- [ ] 08.08: Ch8. Higher-Order Functions: Lambdas as Parameters and Return Values
+- [ ] 08.04: Ch7. Operator Overloading and Other Conventions(연산자 오버로딩과 기타 관례)
+- [ ] 08.08: Ch8. Higher-Order Functions: Lambdas as Parameters and Return Values(고차 함수: 파라미터와 반환 값으로 람다 사용)
 - [ ] 08.11: Ch9. Generics
 - [ ] 08.15: Ch10. Annotations and Reflection
-- [ ] 08.18: Ch11. DSL Construction
+- [ ] 08.18: Ch11. DSL Construction(DSL 만들기)
 
 ### 스터디원
 
