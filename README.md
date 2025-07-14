@@ -17,14 +17,17 @@ Kotlin 언어에 대한 기본적인 이해 및 활용, 안드로이드 앱 개�
 - 책에 있는 실습 직접 해보고 모르는 건 스터디에서 질문하기
 
 ## 📚 진도  
-- [ ] 1주차(04.03): Basic of grpah & Implementation [백준 11724, 1707]
-- [ ] 2주차(04.10): Traversal of Grpah [백준 1260, 1012]
-- [ ] 3주차(04.17): Minimum Spanning Tree [백준 1197, 1922]
-- [ ] 4주차(04.24): 중간고사 주간. Skip😎(Shortest Path Algorithm)
-- [ ] 5주차(05.01): Brute-force Algorithm [백준 2231, 7568]
-- [ ] 6주차(05.08): Greedy Algorithm [백준 11399, 1931]
-- [ ] 7주차(05.15): Divide and Conquer [백준 2630, 1992]
-- [ ] 8주차(05.22): Dynamic programming [백준 1463, 9095]
+- [ ] 07.16: Ch1. Kotlin: What and Why
+- [ ] 07.18: Ch2. Kotlin basics
+- [ ] 07.21: Ch3. Defining and Calling Fuctions
+- [ ] 07.25: Ch4. Classes, Objects, and Interfaces
+- [ ] 07.28: Ch5. Programming with lambdas
+- [ ] 08.01: Ch6. The Kotlin Type System
+- [ ] 08.04: Ch7. Operator Overloading and Other Conventions
+- [ ] 08.08: Ch8. Higher-Order Functions: Lambdas as Parameters and Return Values
+- [ ] 08.11: Ch9. Generics
+- [ ] 08.15: Ch10. Annotations and Reflection
+- [ ] 08.18: Ch11. DSL Construction
 
 ### 스터디원
 
