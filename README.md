@@ -17,29 +17,19 @@
 ## 📖 Kotlin in Action 2.0 - 스터디 진도표
 > 한 차시당 한 챕터씩 진행합니다.
 
-📚 1부: 코틀린 소개
-- [ ] 1장: 코틀린이란 무엇이며, 왜 필요한가?
-- [ ] 2장: 코틀린 기초
-- [ ] 3장: 함수 정의와 호출
-- [ ] 4장: 클래스, 객체, 인터페이스
-- [ ] 5장: 람다를 사용한 프로그래밍
-- [ ] 6장: 컬렉션과 시퀀스
-- [ ] 7장: 널이 될 수 있는 값
-- [ ] 8장: 기본 타입, 컬렉션, 배열
 
-🛠️ 2부: 코틀린을 코틀린답게 사용하기
-- [ ] 9장: 연산자 오버로딩과 다른 관례
-- [ ] 10장: 고차 함수
-- [ ] 11장: 제네릭스
-- [ ] 12장: 어노테이션과 리플렉션
-- [ ] 13장: DSL 만들기
-
-⚙️ 3부: 코루틴과 플로우를 활용한 동시성 프로그래밍
-- [ ] 14장: 코루틴
-- [ ] 15장: 구조화된 동시성
-- [ ] 16장: 플로우
-- [ ] 17장: 플로우 연산자
-- [ ] 18장: 오류 처리와 테스트
+📚 진도
+- [ ] 1차시:  [Ch1] Kotlin: What and Why
+- [ ] 2차시:  [Ch2] Kotlin basics
+- [ ] 3차시:  [Ch3] Defining and Calling Fuctions(함수 정의와 호출)
+- [ ] 4차시:  [Ch4] Classes, Objects, and Interfaces
+- [ ] 5차시:  [Ch5] Programming with lambdas(람다를 이용한 프로그래밍)
+- [ ] 6차시:  [Ch6] The Kotlin Type System
+- [ ] 7차시:  [Ch7] Operator Overloading and Other Conventions(연산자 오버로딩과 기타 관례)
+- [ ] 8차시:  [Ch8] Higher-Order Functions: Lambdas as Parameters and Return Values(고차 함수: 파라미터와 반환 값으로 람다 사용)
+- [ ] 9차시:  [Ch9] Generics
+- [ ] 10차시: [Ch10] Annotations and Reflection
+- [ ] 11차시: [Ch11] DSL Construction(DSL 만들기)
 
 ---
 
