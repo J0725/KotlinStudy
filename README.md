@@ -48,7 +48,7 @@
 <table align="center">
 <tr align="center">
 <td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" width="100"></td>
-<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" width="100"></td>
+<td><img src="" width="100"></td>
 </tr>
 
 <tr align="center">
